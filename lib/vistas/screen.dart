@@ -1,0 +1,9 @@
+export 'package:parcial_final_app/vistas/creditos_screen.dart';
+export 'package:flutter/material.dart';
+export 'package:parcial_final_app/vistas/actividad_screen.dart';
+export 'package:parcial_final_app/vistas/objetivos_screen.dart';
+export 'package:parcial_final_app/vistas/principios_screen.dart';
+export 'package:parcial_final_app/vistas/edadOro_screen.dart';
+export 'package:parcial_final_app/vistas/primerosPasos_screen.dart';
+export 'package:parcial_final_app/vistas/introduccion_screen.dart';
+export 'package:parcial_final_app/vistas/home_screen.dart';
